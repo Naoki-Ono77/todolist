@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "todo-list2-d28bc",
+    "production": "todo-list2-d28bc"
+  },
+  "targets": {},
+  "etags": {}
+}
